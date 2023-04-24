@@ -1,2 +1,2 @@
-# Netflix-EDA--1
+# Netflix-EDA-#1
 Exploratory Data analysis with Netflix data
